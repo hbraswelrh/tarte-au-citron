@@ -1,0 +1,7 @@
+- control-id:
+  assessments:
+    - requirement-id:
+      procedures:
+        - id: ""
+          name: ""
+          description: |

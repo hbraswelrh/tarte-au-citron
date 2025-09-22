@@ -1,0 +1,93 @@
+# This document is adapted for testing purpose only and is from https://github.com/complytime/baseline-demo/blob/main/src/guidance/800_161.yml
+# Assisted by: Gemini 2.5 Pro
+
+metadata:
+  id:
+  title:
+  description:
+  author:
+  version:
+  publication-date:
+  last-modified:
+  document-type:
+  imported-guidelines:
+    - id:
+      title:
+      version: ""
+      url:
+      description:
+  resources:
+    - id:
+      title:
+      description:
+      url:
+      issuing-body:
+      publication-date: ''
+categories:
+  - id:
+    title:
+    description: ""
+    guidelines:
+      - id:
+        title:
+        objective: ""
+        recommendations:
+          - ""
+        external-references:
+          -
+  - id:
+    title:
+    description: ""
+    guidelines:
+      - id:
+        title:
+        objective: ""
+        recommendations:
+          - ""
+        external-references:
+          -
+      - id:
+        title:
+        base-guideline-id:
+        recommendations:
+          - ""
+  - id:
+    title:
+    description: ""
+    guidelines:
+      - id:
+        title:
+        objective: ""
+        recommendations:
+          - ""
+        external-references:
+          -
+  - id:
+    title:
+    description: ""
+    guidelines:
+      - id:
+        title:
+        objective: ""
+        recommendations:
+          - ""
+          - ""
+          - ""
+        see-also:
+          -
+          -
+        external-references:
+          -
+  - id:
+    title:
+    description: ""
+    guidelines:
+      - id:
+        title:
+        objective: ""
+        recommendations:
+          -
+        see-also:
+          -
+        external-references:
+          -

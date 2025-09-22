@@ -1,0 +1,22 @@
+metadata:
+  id:
+  title:
+  description:
+  version:
+  mapping-references:
+control-families:
+  - title:
+    description: |
+    controls:
+      - id:
+        title: |
+        objective: |
+        guideline-mappings:
+        assessment-requirements:
+          - id:
+            text: |
+            applicability:
+            recommendation:
+            recommended-parameters:
+              - id:
+                description:
